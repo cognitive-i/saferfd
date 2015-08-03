@@ -6,7 +6,7 @@ safer.
 It attempts to make it hard to make the following mistakes with file
 descriptors:
 
-* forgoting to close (handled when FD goes out of scope)
+* forgeting to close (handled when FD goes out of scope)
 * performing operations on a dead file descriptor
 * race conditions from language copying of file descriptor int rather than OS dup call 
 
