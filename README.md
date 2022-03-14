@@ -23,4 +23,5 @@ See example folder.
 
 Author
 ======
-Atish Nazir, Cognitive-i Ltd saferfd@cognitive-i.com
+Atish Nazir, Cognitive-i Ltd oss+saferfd@cognitive-i.com
+
